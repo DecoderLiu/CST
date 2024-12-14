@@ -335,7 +335,7 @@ dependencies:
       - tensorboard==2.9.1
       - tensorboard-data-server==0.6.1
       - tensorboard-plugin-wit==1.8.1
-      - torchcubicspline==0.0.3
+      # - torchcubicspline==0.0.3
       - torchmetrics==0.9.3
       - werkzeug==2.2.0
       - yarl==1.7.2
